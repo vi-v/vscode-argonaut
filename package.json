@@ -1,0 +1,22 @@
+{
+    "name": "argonaut-theme",
+    "displayName": "Argonaut Theme",
+    "description": "Dark, soothing colors",
+    "version": "0.0.1",
+    "publisher": "vi-v",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Argonaut Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Argonaut Theme-color-theme.json"
+            }
+        ]
+    }
+}
